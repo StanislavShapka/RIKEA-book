@@ -11,8 +11,12 @@
             "id": "7088aac9bcf51bda",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "client-notes/Color Pallett.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c8af38239382a02c",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "client-notes/Color Pallett.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "client-notes/Color Pallett.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "client-notes/Color Pallett.md"
+              }
             }
           },
           {
@@ -157,8 +164,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4f2dbe1ab79ec30",
+  "active": "7088aac9bcf51bda",
   "lastOpenFiles": [
+    "client-notes/Table of entities.md",
+    "client-notes/Color Pallett.md",
+    "Color-palet.md",
+    "client-notes/Layout.md",
+    "server-notes",
+    "client-notes",
     "Welcome.md"
   ]
 }
